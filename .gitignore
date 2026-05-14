@@ -1,0 +1,12 @@
+work/
+.nextflow/
+.nextflow.log*
+results/
+test_results/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+databases/
+*.tar.gz
+.DS_Store
